@@ -8,6 +8,6 @@ The project topics are as follows:
 
 **Project 2:** Bayesian Neural Network implementations
 
-**Project 1:** Constrained Active Learning and Bayesian Optimization
+**Project 3:** Constrained Active Learning and Bayesian Optimization
 
-**Project 1:** Actor-Critic Method implementation for Reinforcement Learning
+**Project 4:** Actor-Critic Method implementation for Reinforcement Learning
