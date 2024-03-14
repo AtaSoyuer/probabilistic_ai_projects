@@ -27,7 +27,7 @@ Reinforcement learning task using Generalized Advantage Estimation (GAE) as pres
 *Baseline evaluation:* estimated expected cumulative reward of the final policy over an episode. 
 
 <p align="left">
-  <img src="https://github.com/alextimans/eth-probabilistic-ai/blob/main/figures/lunar_lander.gif" >  
+  <img src="https://github.com/AtaSoyuer/probabilistic_ai_projects/policy.mp4" >  
 </p>
 <!--- ![Project 4](https://github.com/AtaSoyuer/probabilistic_ai_projects/policy.mp4) --->
 
