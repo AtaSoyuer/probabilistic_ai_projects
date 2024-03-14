@@ -29,7 +29,7 @@ Reinforcement learning task using Generalized Advantage Estimation (GAE) as pres
 <p align="left">
   <img src="https://github.com/alextimans/eth-probabilistic-ai/blob/main/figures/lunar_lander.gif" >  
 </p>
-<!--- ![Project 4](https://github.com/alextimans/eth-probabilistic-ai/blob/main/figures/lunar_lander.gif) --->
+<!--- ![Project 4](https://github.com/AtaSoyuer/probabilistic_ai_projects/policy.mp4) --->
 
 *Fig:* Visualisation of the lander acting under the optimal policy computed at evaluation time.
 
